@@ -5,7 +5,7 @@ Note: make it a console program
 2. system accepts two inputs at a time
  */
 import java.util.Scanner;
-public class Main {
+public class Calculator{
 
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
